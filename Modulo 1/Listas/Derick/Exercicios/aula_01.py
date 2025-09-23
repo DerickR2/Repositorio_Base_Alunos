@@ -1,6 +1,0 @@
-print("olá saudações")
-nome = input("qual é o seu nome? ")
-print(f"bot:{nome} q nome top")
-idade = int(input("qual anos você tem? "))
-print(f"bot: ano q vem vc vai ter {idade + 1} anos ")
-print("Você: beleza")
